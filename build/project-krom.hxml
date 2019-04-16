@@ -1,0 +1,31 @@
+-cp c:\Program Files\WindowsApps\5649RobertKonrad.KodeStudio_18.11.0.0_x64__j9akr42m5hw02\resources\app\kodeExtensions\kha\Kha\Sources
+-cp c:\Program Files\WindowsApps\5649RobertKonrad.KodeStudio_18.11.0.0_x64__j9akr42m5hw02\resources\app\kodeExtensions\kha\Kha\Backends\Krom
+-cp c:\Users\fukan\Documents\anshuman\KhaProjects\game\Sources
+-cp c:\Users\fukan\Documents\anshuman\KhaProjects\game\Libraries\gamelib\Sources
+-cp c:\Users\fukan\Documents\anshuman\KhaProjects\game\Libraries\nape
+-cp c:\Users\fukan\Documents\anshuman\KhaProjects\game\Libraries\gamelib
+-D gamelib
+-D nape
+-D js-classic
+-D sys_krom
+-D sys_g1
+-D sys_g2
+-D sys_g3
+-D sys_g4
+-D sys_a1
+-D sys_a2
+-D kha_js
+-D kha_krom
+-D kha_krom_js
+-D kha_default
+-D kha_g1
+-D kha_g2
+-D kha_g3
+-D kha_g4
+-D kha_a1
+-D kha_a2
+-D kha
+-D kha_version=1810
+-js krom\krom.js.temp
+-debug
+-main Main

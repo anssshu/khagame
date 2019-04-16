@@ -1,0 +1,80 @@
+{
+	"PNG/1": {
+		"frame": {
+			"x": 0,
+			"y": 0,
+			"width": 418,
+			"height": 298
+		},
+		"sourceSize": {
+			"width": 456,
+			"height": 345
+		},
+		"rotated": false
+	},
+	"PNG/2": {
+		"frame": {
+			"x": 420,
+			"y": 300,
+			"width": 418,
+			"height": 272
+		},
+		"sourceSize": {
+			"width": 456,
+			"height": 345
+		},
+		"rotated": false
+	},
+	"PNG/3": {
+		"frame": {
+			"x": 0,
+			"y": 300,
+			"width": 418,
+			"height": 298
+		},
+		"sourceSize": {
+			"width": 456,
+			"height": 345
+		},
+		"rotated": false
+	},
+	"PNG/4": {
+		"frame": {
+			"x": 0,
+			"y": 600,
+			"width": 418,
+			"height": 272
+		},
+		"sourceSize": {
+			"width": 456,
+			"height": 345
+		},
+		"rotated": false
+	},
+	"PNG/5": {
+		"frame": {
+			"x": 420,
+			"y": 0,
+			"width": 418,
+			"height": 298
+		},
+		"sourceSize": {
+			"width": 456,
+			"height": 345
+		},
+		"rotated": false
+	},
+	"PNG/6": {
+		"frame": {
+			"x": 420,
+			"y": 574,
+			"width": 418,
+			"height": 272
+		},
+		"sourceSize": {
+			"width": 456,
+			"height": 345
+		},
+		"rotated": false
+	}
+}

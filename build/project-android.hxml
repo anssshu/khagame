@@ -1,0 +1,27 @@
+-cp /Applications/Kode Studio.app/Contents/Resources/app/extensions/kha/Kha/Sources
+-cp /Applications/Kode Studio.app/Contents/Resources/app/extensions/kha/Kha/Backends/Android
+-cp /Volumes/fukanKhaDev/KhaProjects/game/Sources
+-cp /Volumes/fukanKhaDev/KhaProjects/game/Libraries/gamelib/Sources
+-cp /Volumes/fukanKhaDev/KhaProjects/game/Libraries/gamelib
+-D gamelib
+-D no-compilation
+-D sys_android
+-D sys_g1
+-D sys_g2
+-D sys_g3
+-D sys_g4
+-D sys_a1
+-D kha_java
+-D kha_android
+-D kha_android_java
+-D kha_opengl
+-D kha_g1
+-D kha_g2
+-D kha_g3
+-D kha_g4
+-D kha_a1
+-D kha
+-D kha_version=1611
+-java android/Pipa
+-java-lib ../../../../../Applications/Kode Studio.app/Contents/Resources/app/extensions/kha/Kha/Tools/haxe/hxjava/hxjava-std.jar
+-main Main

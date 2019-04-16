@@ -1,0 +1,54 @@
+{
+	"./ant": {
+		"frame": {
+			"x": 0,
+			"y": 79,
+			"width": 129,
+			"height": 71
+		},
+		"sourceSize": {
+			"width": 129,
+			"height": 71
+		},
+		"rotated": false
+	},
+	"./cat": {
+		"frame": {
+			"x": 0,
+			"y": 152,
+			"width": 129,
+			"height": 37
+		},
+		"sourceSize": {
+			"width": 129,
+			"height": 37
+		},
+		"rotated": false
+	},
+	"./mimo": {
+		"frame": {
+			"x": 131,
+			"y": 0,
+			"width": 34,
+			"height": 48
+		},
+		"sourceSize": {
+			"width": 34,
+			"height": 48
+		},
+		"rotated": false
+	},
+	"./poo": {
+		"frame": {
+			"x": 0,
+			"y": 0,
+			"width": 129,
+			"height": 77
+		},
+		"sourceSize": {
+			"width": 129,
+			"height": 77
+		},
+		"rotated": false
+	}
+}

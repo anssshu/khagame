@@ -1,0 +1,10 @@
+game has  6 states
+ loadgame,menu,setting,world,experiment,gameover
+
+
+ do everything in the experiment scene and then 
+ copy that code into the world-state Scane(HomeScene);
+
+
+ //create a player physics controller in nape and connect it to nape;
+//create a polygon in the scene

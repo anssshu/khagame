@@ -1,0 +1,11 @@
+{
+	"name": "gamelib",
+	"classPath": "Sources",
+    "url":          "https://github.com/deltaluca/ans",
+    "license":      "BSD",
+    "tags":         ["cross", "game"],
+    "description":  "Nape 2D Physics Engine",
+    "version":      "1.0.0",
+    "releasenote":  "Inline change for compatibilty with next Haxe release after pull request merge",
+    "contributors": ["anshuman"]
+}

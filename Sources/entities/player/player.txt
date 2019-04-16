@@ -1,0 +1,4 @@
+this is the main player object of the game
+it consists of the following components
+
+rigidbody,collider,raycast,animation,gamepad,keyboard
